@@ -72,4 +72,5 @@ email: ""
 highlight_name: false
 ---
 
-My research interests include Natural Language Processing, especially Natural Language Understanding and Automatic Text Summarization.
+
+My research interests include Machine Learning and Natural Language Processing, especially Natural Language Understanding and Automatic Text Summarization. Currently, I am investigating how to detect and extract user-informed relevant information from online health forums so that I can apply this knowledge to the improvement of the task of Automatic Text Summarization using Deep Learning techniques. 
