@@ -63,6 +63,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: https://www.linkedin.com/in/eseblis/
+#   {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +72,3 @@ email: ""
 highlight_name: false
 ---
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
