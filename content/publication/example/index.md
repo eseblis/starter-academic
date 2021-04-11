@@ -21,7 +21,7 @@ publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *University of Copenahagen*
-publication_short: In *IUC*
+publication_short: In *UCPH*
 
 abstract:
 
