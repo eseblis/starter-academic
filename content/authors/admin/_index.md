@@ -6,7 +6,7 @@ title: Esther Sebastian Liso
 superuser: true
 
 # Role/position/tagline
-role: Speech Scientist and PhD Student at UNED
+role: Speech Scientist and PhD Student at
 
 # Organizations/Affiliations to show in About widget
 organizations:
