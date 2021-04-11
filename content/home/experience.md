@@ -29,12 +29,7 @@ experience:
     date_start: 
     date_end: 
     description: 
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+
   - title: PhD Researcher
     company: UNED
     company_url: ''
