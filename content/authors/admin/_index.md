@@ -72,3 +72,4 @@ email: ""
 highlight_name: false
 ---
 
+My research interests include Natural Language Processing, especially Natural Language Understanding and Automatic Text Summarization.
