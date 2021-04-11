@@ -41,5 +41,5 @@ experience:
     location: 
     date_start: 
     date_end: 
-    description: Research methods of Automatic Text Summarization using Deep Learning
+    description: 'Research methods of Automatic Text Summarization using Deep Learning'
 ---
