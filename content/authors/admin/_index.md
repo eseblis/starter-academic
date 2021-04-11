@@ -26,9 +26,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Intelligent Systems
-    institution: UNED
-    year: 2020
   - course: Msc in IT & Cognition
     institution: University of Copenahagen
     year: 2015
